@@ -196,4 +196,6 @@ echo -n "STATUS"           | nc -u -w1 relay8.local 8888   # watch MARVIN_LEFT c
 
 ## License
 
-MIT. Use it, change it, scare your neighbors with it.
+Released under the [Unlicense](LICENSE): free to copy, modify and use for anything.
+If you build something with it, a credit or a link back to this repo is appreciated, but not required.
+Use it, change it, scare your neighbors with it.
