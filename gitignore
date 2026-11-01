@@ -1,0 +1,15 @@
+# Arduino build output (Arduino IDE 2 "Export compiled binary" / arduino-cli)
+build/
+**/build/
+
+# Compiled binaries anywhere in the repo
+*.bin
+*.elf
+*.hex
+*.map
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
