@@ -8,4 +8,4 @@
 
 const char* ssid     = "YOUR_WIFI_NAME";      // 2.4 GHz network
 const char* password = "YOUR_WIFI_PASSWORD";
-const char* apiKey   = "sk-proj-...";         // from platform.openai.com
+const char* apiKey   = "sk-proj-...";         // If needed
