@@ -1,5 +1,5 @@
 # Private WiFi credentials and OpenAI API key - do not publish
-secrets.h
+**/secrets.h
 
 # Arduino build output (Arduino IDE 2 "Export compiled binary" / arduino-cli)
 build/
@@ -16,3 +16,4 @@ build/
 Thumbs.db
 desktop.ini
 .vscode/
+*.log
