@@ -40,8 +40,8 @@
 #include <ArduinoOTA.h>
 #include "secrets.h"
 
-const char*    WIFI_SSID = ssid
-const char*    WIFI_PASS = password
+const char*    WIFI_SSID = ssid;
+const char*    WIFI_PASS = password;
 const char*    HOSTNAME  = "relay8";
 const uint16_t UDP_PORT  = 8888;
 
