@@ -38,9 +38,10 @@
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 #include <ArduinoOTA.h>
+#include "secrets.h"
 
-const char*    WIFI_SSID = "Kaywinnet";
-const char*    WIFI_PASS = "806194edb8";
+const char*    WIFI_SSID = ssid
+const char*    WIFI_PASS = password
 const char*    HOSTNAME  = "relay8";
 const uint16_t UDP_PORT  = 8888;
 
